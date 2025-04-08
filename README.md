@@ -17,7 +17,8 @@ Key Insights
 	•	Seasonality: Sales spike in summer months and around the holiday season (November–December).
 	•	Retailers: Foot Locker and West Gear were top-performing retailers.
 
- 
+ ![Dashboard Preview](images/project2-1.png)
+
 
 Dashboard Features
 	•	Interactive filters for region, state, city, product, and retailer
@@ -26,4 +27,5 @@ Dashboard Features
 	•	Sales Analysis (city/state/regional deep dive)
 	•	Overall Performance Overview (monthly trends, retailer impact, top cities)
 
- 
+ ![Dashboard Preview](images/project2-2.png)
+
